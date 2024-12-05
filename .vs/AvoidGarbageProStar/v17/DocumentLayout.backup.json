@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Blue Rosa\\source\\repos\\AvoidGarbageProStar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A73BD0F-A1B8-4F76-8FE8-7F2178ECB57F}|AvoidGarbageProStar\\AvoidGarbageProStar.csproj|c:\\users\\blue rosa\\source\\repos\\avoidgarbageprostar\\avoidgarbageprostar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A73BD0F-A1B8-4F76-8FE8-7F2178ECB57F}|AvoidGarbageProStar\\AvoidGarbageProStar.csproj|solutionrelative:avoidgarbageprostar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Blue Rosa\\source\\repos\\AvoidGarbageProStar\\AvoidGarbageProStar\\Form1.cs",
+              "RelativeDocumentMoniker": "AvoidGarbageProStar\\Form1.cs",
+              "ToolTip": "C:\\Users\\Blue Rosa\\source\\repos\\AvoidGarbageProStar\\AvoidGarbageProStar\\Form1.cs [Design]",
+              "RelativeToolTip": "AvoidGarbageProStar\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:06:49.882Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
