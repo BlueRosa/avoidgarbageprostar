@@ -7,11 +7,13 @@ namespace AvoidGarbageProStar
     {
         public string n;
         public List<Deplacement> d;
+        public Partern p;
 
-        public Garbage(string nom)
+        public Garbage(string nom, Partern partern)
         {
             n = nom;
             d = new List<Deplacement>();
+            p = partern;
         }
 
         public void ajouter(DateTime dt, float x, float y, float r)
@@ -35,6 +37,16 @@ namespace AvoidGarbageProStar
                 Console.WriteLine($"Date: {dp.dt}, Position: ({dp.x}, {dp.y}), Rotation: {dp.r} degrés");
             }
         }
+
+        public void suivreTrajectoire()
+        {
+            for (int i = 0; i < 10; i++)
+            {
+                float x = i;
+                float y = p.a * x * x + p.b * x + p.c;
+                ajouter(DateTime.Now.AddSeconds(i), x, y, 0);
+            }
+        }
     }
 
     class Deplacement
@@ -51,19 +63,26 @@ namespace AvoidGarbageProStar
         }
     }
 
+    class Partern
+    {
+        public int a, b, c;
+
+        public Partern(int aa, int bb, int cc)
+        {
+            a = aa;
+            b = bb;
+            c = cc;
+        }
+    }
+
     class GarbageMove
     {
         static void Main()
         {
-            var g = new Garbage("Garbage1");
-            g.ajouter(DateTime.Now, 0, 0, 0);
-            g.ajouter(DateTime.Now.AddSeconds(1), 1, 1, 45);
-            g.ajouter(DateTime.Now.AddSeconds(2), 2, 2, 90);
-
-            for (int i = 0; i < 1; i++)
-            {
-                g.afficher();
-            }
+            var p = new Partern(1, 2, 3);
+            var g = new Garbage("Garbage1", p);
+            g.suivreTrajectoire();
+            g.afficher();
         }
     }
 }
