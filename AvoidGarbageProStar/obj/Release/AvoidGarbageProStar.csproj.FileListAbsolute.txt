@@ -1,0 +1,10 @@
+C:\Users\Blue Rosa\source\repos\AvoidGarbageProStar\AvoidGarbageProStar\bin\Release\AvoidGarbageProStar.exe.config
+C:\Users\Blue Rosa\source\repos\AvoidGarbageProStar\AvoidGarbageProStar\bin\Release\AvoidGarbageProStar.exe
+C:\Users\Blue Rosa\source\repos\AvoidGarbageProStar\AvoidGarbageProStar\bin\Release\AvoidGarbageProStar.pdb
+C:\Users\Blue Rosa\source\repos\AvoidGarbageProStar\AvoidGarbageProStar\obj\Release\AvoidGarbageProStar.csproj.AssemblyReference.cache
+C:\Users\Blue Rosa\source\repos\AvoidGarbageProStar\AvoidGarbageProStar\obj\Release\AvoidGarbageProStar.Form1.resources
+C:\Users\Blue Rosa\source\repos\AvoidGarbageProStar\AvoidGarbageProStar\obj\Release\AvoidGarbageProStar.Properties.Resources.resources
+C:\Users\Blue Rosa\source\repos\AvoidGarbageProStar\AvoidGarbageProStar\obj\Release\AvoidGarbageProStar.csproj.GenerateResource.cache
+C:\Users\Blue Rosa\source\repos\AvoidGarbageProStar\AvoidGarbageProStar\obj\Release\AvoidGarbageProStar.csproj.CoreCompileInputs.cache
+C:\Users\Blue Rosa\source\repos\AvoidGarbageProStar\AvoidGarbageProStar\obj\Release\AvoidGarbageProStar.exe
+C:\Users\Blue Rosa\source\repos\AvoidGarbageProStar\AvoidGarbageProStar\obj\Release\AvoidGarbageProStar.pdb

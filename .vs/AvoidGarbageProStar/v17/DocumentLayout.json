@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Blue Rosa\\source\\repos\\AvoidGarbageProStar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A73BD0F-A1B8-4F76-8FE8-7F2178ECB57F}|AvoidGarbageProStar\\AvoidGarbageProStar.csproj|c:\\users\\blue rosa\\source\\repos\\avoidgarbageprostar\\avoidgarbageprostar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6A73BD0F-A1B8-4F76-8FE8-7F2178ECB57F}|AvoidGarbageProStar\\AvoidGarbageProStar.csproj|c:\\users\\blue rosa\\source\\repos\\avoidgarbageprostar\\avoidgarbageprostar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A73BD0F-A1B8-4F76-8FE8-7F2178ECB57F}|AvoidGarbageProStar\\AvoidGarbageProStar.csproj|solutionrelative:avoidgarbageprostar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A73BD0F-A1B8-4F76-8FE8-7F2178ECB57F}|AvoidGarbageProStar\\AvoidGarbageProStar.csproj|C:\\Users\\Blue Rosa\\source\\repos\\AvoidGarbageProStar\\avoidgarbageprostar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6A73BD0F-A1B8-4F76-8FE8-7F2178ECB57F}|AvoidGarbageProStar\\AvoidGarbageProStar.csproj|solutionrelative:avoidgarbageprostar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,6 +23,20 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Blue Rosa\\source\\repos\\AvoidGarbageProStar\\AvoidGarbageProStar\\Form1.cs",
+              "RelativeDocumentMoniker": "AvoidGarbageProStar\\Form1.cs",
+              "ToolTip": "C:\\Users\\Blue Rosa\\source\\repos\\AvoidGarbageProStar\\AvoidGarbageProStar\\Form1.cs",
+              "RelativeToolTip": "AvoidGarbageProStar\\Form1.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwE4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:36:47.333Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Blue Rosa\\source\\repos\\AvoidGarbageProStar\\AvoidGarbageProStar\\Form1.cs",
               "RelativeDocumentMoniker": "AvoidGarbageProStar\\Form1.cs",
